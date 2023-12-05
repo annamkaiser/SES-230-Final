@@ -3,7 +3,7 @@
 #I asked the question of what is the average amount of times the ball gets hit back and forth until the round is over.
 import random
 
-class Player
+class Player:
     def __init__(self, name, singles_win, singles_loss, singles_percentage,
                  doubles_win, doubles_loss, doubles_percentage,
                  golden_game_pf, golden_game_pa, golden_game_percentage, power_ranking):
