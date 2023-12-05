@@ -1,9 +1,6 @@
 # SES-230-Final
-#My project will simulate a table tennis match between real teams with their real players.
-#simulate a ping pong match with the question of "what is the avg amount of times the ball goes back and forth before someone loses the round
-#a full match consists of 4 singles matches, 1 doubles match, one golden game
-#players from Carolina Gold Rush and Princeton Revolution in the Table Tennis League
-
+#this code will simulate a table tennis match consisting of 4 singles matches, 1 doubles match, and on golden game. The teams are from the Carolina Gold Rush and Princeton Revolution from the Major Table Tennis League, and I used their real players.
+#I asked the question of what is the average amount of times the ball gets hit back and forth until the round is over.
 import random
 
 class Player:
